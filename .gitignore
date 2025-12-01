@@ -17,18 +17,17 @@ env/
 .ipynb_checkpoints/
 
 # =======================
-# DATA
+# DATA (más estricto)
 # =======================
 
-# Ignorar TODOS los CSV dentro de data/
-data/**/*.csv
+# Ignorar TODOS los CSV en TODO el repo
+*.csv
+
 
 # PERO NO ignorar los procesados finales (3.processed)
 !data/model1_cv_role/3.processed/*.csv
 !data/model2_salaries/3.processed/*.csv
 
-# Si tienes otros modelos, añádelos igual:
-# !data/otro_modelo/3.processed/*.csv
 
 # =======================
 # MODELOS entrenados
