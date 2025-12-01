@@ -21,3 +21,8 @@ Estos ficheros **NO se suben al repositorio** porque:
 
    Guarda el CSV aquí como:
    `resumes_dataset2.csv`
+
+3. Descarga el Dataset 3 (SNEHAAN BHAWAL) desde:
+   https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+   Guarda el CSV aquí como:
+   `resumes_dataset3.csv`
