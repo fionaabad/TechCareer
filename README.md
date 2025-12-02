@@ -149,3 +149,9 @@ Más adelante añadiremos:
 2. Limpiar y unificar datos → guardar resultados en `data/.../cleaning/`.
 3. Generar datasets finales para ML → `data/.../processed/`.
 4. Ejecutar scripts de `src/..._training/` → modelos entrenados en `models/`.
+
+## Entorn
+
+1. Instal·lar uv
+2. `uv sync`
+3. `uv run jupyter lab`
